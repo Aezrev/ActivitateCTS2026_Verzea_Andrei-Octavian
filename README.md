@@ -1,0 +1,1 @@
+# ActivitateCTS2026_Verzea_Andrei-Octavian
