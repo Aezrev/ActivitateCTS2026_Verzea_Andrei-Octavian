@@ -1,0 +1,11 @@
+package v8_registryOfSingletons;
+
+
+public class PachetCazare implements PachetTuristic {
+
+    @Override
+    public void descriere() {
+        System.out.println("Acest pachet include doar cazare");
+    }
+
+}
